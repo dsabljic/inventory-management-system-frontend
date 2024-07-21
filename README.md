@@ -7,7 +7,7 @@
 After cloning run:
 
 ```bash
-cd inventory-frontend/frontend
+cd inventory-frontend
 ```
 
 ```bash
