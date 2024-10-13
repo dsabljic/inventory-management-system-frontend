@@ -1,6 +1,6 @@
 # inventory-frontend
 
-
+[backend](github.com/dsabljic/inventory-management-system)
 
 ## Getting started
 
